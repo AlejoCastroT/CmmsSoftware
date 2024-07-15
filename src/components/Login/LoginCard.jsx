@@ -1,4 +1,3 @@
-// src/components/LoginCard.js
 import React from 'react';
 import { Card } from 'react-bootstrap';
 
