@@ -1,0 +1,9 @@
+.custom-button {
+    background-color: #9290C3;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.custom-button:hover {
+    background-color: #7f7ca6; /* Color más oscuro al pasar el mouse */
+}
